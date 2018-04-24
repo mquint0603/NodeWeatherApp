@@ -1,0 +1,7 @@
+
+bob, tallahassee, April 23rd 2018, 7:34:13 pm 
+mary, minneapolis, April 23rd 2018, 7:34:30 pm 
+mary, roseville, April 23rd 2018, 7:53:32 pm 
+mary, chicago, April 23rd 2018, 7:56:18 pm 
+mary, helena, April 23rd 2018, 7:58:02 pm 
+
